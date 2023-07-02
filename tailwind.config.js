@@ -6,6 +6,9 @@ module.exports = {
             fontFamily: {
                 display: "Comfortaa, cursive",
             },
+            rotate: {
+                15: "15deg",
+            },
         },
     },
     plugins: [],
