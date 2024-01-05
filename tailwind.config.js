@@ -4,7 +4,7 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                display: "Comfortaa, cursive",
+                display: "Montserrat, sans-serif",
             },
             rotate: {
                 15: "15deg",
