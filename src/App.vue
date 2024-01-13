@@ -1,13 +1,13 @@
 <template>
     <div class="flex h-[396px] w-[1584px] justify-between bg-[url('/blurry-gradient-haikei.svg')] bg-center shadow-lg">
         <div class="w-5/12"></div>
-        <div class="w-7/12 drop-shadow-md">
-            <div class="mt-8 flex flex-col font-display text-neutral-50">
+        <div class="flex w-7/12 flex-col justify-center gap-20 drop-shadow-md">
+            <div class="flex flex-col font-display text-violet-800">
                 <h1 class="text-7xl font-bold">Andrea Damiani</h1>
-                <h2 class="mt-3 text-5xl italic">Sviluppatore Web Full Stack, Musicista</h2>
+                <h2 class="mt-3 text-5xl italic">Sviluppatore Web Full Stack</h2>
             </div>
 
-            <div class="flex w-fit gap-7 pt-10">
+            <div class="flex w-fit gap-7">
                 <IconWrapper icon="vscode-icons:file-type-html" icon-name="HTML" icon-size="text-5xl" />
                 <IconWrapper icon="vscode-icons:file-type-css" icon-name="CSS" icon-size="text-5xl" />
                 <IconWrapper icon="logos:javascript" icon-name="JavaScript" icon-size="text-5xl" />
